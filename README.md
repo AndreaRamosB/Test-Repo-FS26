@@ -7,3 +7,5 @@ Example repository for *Github* Workflow, **AFRE 891/991 FS26**
 | ---- | ----------- | 
 | Workflow | Show the entire Github workflow in a reproducible way in class | 
 
+Now we have another readme called another readme
+
